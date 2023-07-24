@@ -1,0 +1,120 @@
+{
+  "role":"admin",
+  "homePage":"/dashboard",
+  "menuItems":[
+    {
+      "icon": "mdi-account-lock-outline",
+      "href": "/roles",
+      "title": "Rôles",
+      "name": "gerer-roles"
+    },
+    {
+      "icon": "mdi-account-lock-outline",
+      "href": "/permissions",
+      "title": "Permissions",
+      "name": "gerer-permissions"
+    },
+    {
+      "icon": "mdi-cog-outline",
+      "href": "/departements",
+      "title": "Départements",
+      "name": "gerer-departements"
+    },
+    {
+      "icon": "mdi-cog-outline",
+      "href": "/regions",
+      "title": "Region",
+      "name": "gerer-regions"
+    },
+    {
+      "icon": "mdi-cog-outline",
+      "href": "/structures",
+      "title": "Structures",
+      "name": "gerer-structures"
+    },
+    {
+      "icon": "mdi-cog-outline",
+      "href": "/type_structures",
+      "title": "Types de structure",
+      "name": "gerer-parametres"
+    },
+    {
+      "icon": "mdi-cog-outline",
+      "href": "/source_financements",
+      "title": "Sources de financement",
+      "name": "gerer-parametres"
+    },
+    {
+      "icon": "mdi-cog-outline",
+      "href": "/bailleurs",
+      "title": "Bailleurs",
+      "name": "gerer-parametres"
+    },
+    {
+      "icon": "mdi-cog-outline",
+      "href": "/typelignes",
+      "title": "Type Ligne",
+      "name": "gerer-typelignes"
+    },
+    {
+      "icon": "mdi-cog-outline",
+      "href": "/annees",
+      "title": "Années",
+      "name": "gerer-parametres"
+    },
+    {
+      "icon": "mdi-cog-outline",
+      "href": "/domaine_financements",
+      "title": "Domaines de financement",
+      "name": "gerer-parametres"
+    },
+    {
+      "icon": "mdi-cog-outline",
+      "href": "/secteurs",
+      "title": "Secteurs",
+      "name": "gerer-parametres"
+    },
+    {
+      "icon": "mdi-cog-outline",
+      "href": "/sous_secteurs",
+      "title": "Sous secteurs",
+      "name": "gerer-parametres"
+    },
+    {
+      "icon": "mdi-cog-outline",
+      "href": "/agence_executions",
+      "title": "Agences d’exécution",
+      "name": "gerer-parametres"
+    },
+    {
+      "icon": "mdi-cog-outline",
+      "href": "/agence_acredites",
+      "title": "Agences acréditées",
+      "name": "gerer-parametres"
+    },
+    {
+      "icon": "mdi-cog-outline",
+      "href": "/instrument_financiers",
+      "title": "Instruments financiers / IN-KIND",
+      "name": "gerer-parametres"
+    },
+    {
+      "icon": "mdi-cog-outline",
+      "href": "/objectif_adaptations",
+      "title": "Cibles adaptations",
+      "name": "gerer-parametres"
+    },
+    {
+      "icon": "mdi-cog-outline",
+      "href": "/objectif_attenuations",
+      "title": "Cibles atténuations",
+      "name": "gerer-parametres"
+    },
+    {
+      "icon": "mdi-cog-outline",
+      "href": "/objectif_transversals",
+      "title": "Cibles transversales",
+      "name": "gerer-parametres"
+    }
+  ]
+ }
